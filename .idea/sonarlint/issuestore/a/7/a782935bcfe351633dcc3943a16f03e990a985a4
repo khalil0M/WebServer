@@ -1,0 +1,14 @@
+
+n
+java:S3457G"Q%n should be used in place of \n to produce the platform-specific line separator.(Ö£áõ8¬Ó‘àú/
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8–°£Şú/
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8œÂŞú/
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(ôçÀ–úÿÿÿÿ8şŠàú/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İ½¼Áùÿÿÿÿ8Àù¦Şú/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ê·€•
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(Ö£áõ8‹¢®Şú/
+L
+java:S20938"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8»Ş®Şú/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÊû…ÿÿÿÿÿ8›¾ºáú/
